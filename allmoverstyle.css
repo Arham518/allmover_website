@@ -1,0 +1,52 @@
+@font-face{
+    font-family: fontsd;
+    src: url(./font/BalooBhaijaan2-VariableFont_wght.ttf);
+}
+*{
+    font-family: fontsd;
+}
+.mynav{
+    border-radius: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.mygetbutton{
+    font-family: fontsd;
+    border-radius: 14px;
+    border: 1px solid #005f29;
+    font-weight: 400;
+    background-color: #005f29;
+    width: 132px;
+    height: 48px;
+}
+.heading{
+    font-weight: 700;
+    text-align: center;
+    color: #000000;
+}
+.discription{
+    text-align: center;
+    font-weight: 400;
+    font-size: 24px;
+    color: #1c2d34;
+}
+.mylearnbutton{                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+  width: 132px;
+  height: 48px;
+  background-color: #005f29;
+  border: 1px solid #005f29;
+  color: #fff;
+  border-radius: 14px;
+  font-family: "Baloo Bhaijaan 2", sans-serif;
+  font-weight: 400;
+  display: flex;
+  justify-content: center;
+  font-family: fontsd;
+}
+.midpartheading{
+   
+    color: black;
+}
+    .cicon{
+
+        width: 18px;
+    }
